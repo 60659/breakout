@@ -1,6 +1,6 @@
 # Breakout
 
-<img width="453" alt="snake_screen" src="https://user-images.githubusercontent.com/20408426/228011753-2b13330a-9b82-477d-bbeb-7b91312ebf6e.png">
+<img width="451" alt="breakout screen" src="https://github.com/60659/breakout/assets/20408426/8b043756-f9c6-4d74-ba7e-e26e9b1a20d3">
 
 - Written in Python
 - Classic game Breakout
